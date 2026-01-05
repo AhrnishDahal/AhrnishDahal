@@ -32,19 +32,6 @@ Predictive Modelling 🔮
 </div>
 
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhrnishDahal&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
-
-
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-
-
-## 💭 Goals and Passion
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Passionate about applying Artificial Intelligence and Machine Learning to uncover insights from football data.
