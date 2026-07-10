@@ -11,21 +11,19 @@
 I’m currently pursuing a **BTech in Information Technology & Mathematical Innovation** at  
 **Cluster Innovation Centre, University of Delhi**.
 
-I’m passionate about using **data and machine learning** to solve real-world problems and build intelligent, scalable applications. I enjoy working at the intersection of **Data Science, AI, and Backend Development**, especially where analytics meets real impact.
+I’m passionate about using **data and machine learning**. My research interests lie at the intersection of **Natural Language Processing, Retrieval Systems, and Linguistics**, especially in the case of low resource languages.
 
 💡 What I focus on:
-- Machine Learning & Deep Learning (Scikit-learn, PyTorch)  
-- Backend Development for ML (Flask, FastAPI, Go)  
-- Data Analysis & SQL  
-- Model Deployment & APIs  
-- Visualization & Insight Generation  
+- Machine Learning & Deep Learning (Scikit-learn, PyTorch)   
+- Data Analysis & SQL    
+- Visualization & Insight Generation
+- Natural Language Processing
+- Evaluation pipelines
 
 ⚽ Special Interests:
-- Football Analytics 📊  
-- Predictive Modeling 🔮  
-- AI-powered Applications 🤖  
-- Data Visualization 🎨  
-- Problem Solving & Systems Thinking 🧠  
+- Evaluation 📊  
+- Predictive Modeling 🔮   
+- Data Visualization 🎨    
 
 ---
 
@@ -60,11 +58,4 @@ I’m passionate about using **data and machine learning** to solve real-world p
 </div>
 
 
----
 
-<div align="center">
-  
-  **⭐️ From [AhrnishDahal]**  
-  ### Follow to connect 
-  
-</div>
