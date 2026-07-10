@@ -1,7 +1,10 @@
 # Hi there, I'm Ahrnish 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Machine+Learning+%7C+Language and Linguistics+%7C+Embedding and retrieval Models;Exploring+NLP+with+Experimentation+and+Evaluation;Enthusiastic+about+Natural+Language+Processing" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Machine+Learning+%7C+Language+and+Linguistics+%7C+Embedding+and+Retrieval+Models;Exploring+NLP+with+Experimentation+and+Evaluation;Enthusiastic+about+Natural+Language+Processing"
+    alt="Typing SVG"
+  />
 </div>
 
 ---
